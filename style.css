@@ -1,0 +1,75 @@
+body {
+    justify-content: center;
+    align-items: flex-start;
+    background: white;
+}
+
+.chico_azul {
+    width: 90%;
+    height: 70px;
+    border: 10px gray solid;
+    margin-bottom: 0;
+    background-color: lightskyblue;
+}
+
+.grande_azul {
+    width: 90%;
+    height: 100px;
+    border: 10px solid gray;
+    margin-bottom: 0;
+    background-color: lightskyblue;
+    margin-top: 0;
+}
+
+.container {
+    width: 1235px;
+    margin-bottom: auto;
+    margin-top: 0;
+    background-color: gray;
+    display: inline-block;
+    border: 10px;
+}
+
+.container .mediano_azul_margin-derecho {
+    width: 48%;
+    height: 100px;
+    border: 10px solid gray;
+    margin-top: 0;
+    background-color: lightskyblue;
+    top: 0;
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.container .mediano_azul {
+    width: 601px;
+    height: 100px;
+    border: 10px solid gray;
+    margin-top: 0;
+    background-color: lightskyblue;
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.container .mediano_azul_margin-derecho_margin-abajo{
+    width: 48%;
+    height: 100px;
+    border: 10px solid gray;
+    margin-top: 0;
+    background-color: lightskyblue;
+    top: 0;
+    display: inline-block;
+}
+
+.container .mediano_azul_margin-abajo {
+    position: absolute;
+    width: 601px;
+    height: 100px;
+    border: 10px solid gray;
+    background-color: lightskyblue;
+    display: inline-block;
+    margin-top: 0;
+}
+
